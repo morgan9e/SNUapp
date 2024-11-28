@@ -10,4 +10,6 @@
 
 <br>
 
+- Fix 2024.11.29 - Added script for POSTECH
+
 *[Notes](https://blog.morgan.kr/2024/03/playing-with-snu-application/)*
